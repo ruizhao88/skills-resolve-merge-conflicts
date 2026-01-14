@@ -1,3 +1,3 @@
-# References
+## Conflict created by Rui
 
-* octocat 1 😈
+#### another one
